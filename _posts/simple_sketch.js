@@ -3,7 +3,6 @@ var x = 100,
   angle1 = 0.0,
   segLength = 50;
 
-
 function setup() {
   canvas = createCanvas(710, 400);
   canvas.parent('simple-sketch-holder');
