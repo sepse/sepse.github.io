@@ -38,7 +38,7 @@ Daily air pollution data (PM10 & PM2.5) has been gathered from 2019 to 2022, to 
 * Banja Luka
 * Zagreb 
 
-![airbalkans](https://raw.githubusercontent.com/sepse/COVAir-Balkans/blob/main/Graphics/airbalkans.jpg)
+![airbalkans](https://raw.githubusercontent.com/sepse/COVAir-Balkans/main/Graphics/airbalkans.jpg)
 
 ### COVID Data ##
 COVID data has been gathered from: [Our World In Data](https://ourworldindata.org/coronavirus). It includes:
@@ -62,13 +62,13 @@ All data processing, exploration and visualization will be conducted using Pytho
 ## First Results
 Not surprisingly, from initial data exploration of overall region we can see the clear seasonality and trend of pollution levels due to increased burning of wood and coal for heating during the winter. It is particularly interesting to see how different city profiles emerge by looking at baseline air pollution during non-winter months, namely as it addresses other factors that might contribute to air quality (vehicles, industrial activities). These results might not point to specific cause of pollution, however it provides us an advantage to better investigate the phenomenon and potentially identify potential culprits that might play a major role. For instance, one key takeaway that stands out is the improvement of air quality during the COVID lockdown periods, possibly due to decreased traffic. 
 
-![airbalkans](https://raw.githubusercontent.com/sepse/COVAir-Balkans/blob/main/Graphics/balkanair.jpg)
+![airbalkans](https://raw.githubusercontent.com/sepse/COVAir-Balkans/main/Graphics/balkanair.jpg)
 
-![airbalkans](https://raw.githubusercontent.com/sepse/COVAir-Balkans/blob/main/Graphics/seasonality.jpg)
+![airbalkans](https://raw.githubusercontent.com/sepse/COVAir-Balkans/main/Graphics/seasonality.jpg)
 
 Meanwhile our exploration of COVID dataset also reveals somewhat similar country profiles as far as general trendlines are concerned, nevertheless some unique patterns do emerge and they become evident as we visually investigate.
 
-![airbalkans](https://raw.githubusercontent.com/sepse/COVAir-Balkans/blob/main/Graphics/covidbalkan.jpg)
+![airbalkans](https://raw.githubusercontent.com/sepse/COVAir-Balkans/main/Graphics/covidbalkan.jpg)
 
 This analysis provides a general understanding of how Balkan countries relate to one another, and it does raise some questions that might be worthy of further investigation from different domains. Namely, the strongest correlation exists between 'New Testing' and 'New Cases' variables, which could  explain the anomalies in the trendlines above.
 
