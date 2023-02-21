@@ -2,9 +2,9 @@
 layout: post
 title: Balkan Air Pollution & COVID
 subtitle: Is there a relationship?
-gh-repo: daattali/beautiful-jekyll
+gh-repo: sepse/COVAir-Balkans
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [balkan, covid, air pollution]
 comments: true
 ---
 
