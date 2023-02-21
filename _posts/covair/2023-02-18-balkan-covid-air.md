@@ -22,7 +22,7 @@ By performing exploratory analysis of data from these cities we can get differen
 
 ## Data
 ### Air Pollution Data
-![airbalkans](https://raw.githubusercontent.com/sepse/COVAir-Balkans/blob/main/Graphics/pmgraphic.jpg)
+![airbalkans](https://raw.githubusercontent.com/sepse/COVAir-Balkans/main/Graphics/pmgraphic.jpg)
 
 PM stands for particulate matter (also called particle pollution): the term for a mixture of solid particles and liquid droplets found in the air. Some particles, such as dust, dirt, soot, or smoke, are large or dark enough to be seen with the naked eye. Others are so small they can only be detected using an electron microscope. Air particle pollution includes:
 
