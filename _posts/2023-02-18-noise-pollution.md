@@ -2,9 +2,9 @@
 layout: post
 title: Noise Pollution in Prishtina
 subtitle: How loud is our city?
-gh-repo: daattali/beautiful-jekyll
+gh-repo: /sepse/Noise-Pollution
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [noise, pollution, prishtina, iot]
 comments: true
 ---
 
