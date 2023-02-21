@@ -22,7 +22,7 @@ By performing exploratory analysis of data from these cities we can get differen
 
 ## Data
 ### Air Pollution Data
-![airbalkans](https://github.com/sepse/COVAir-Balkans/blob/main/Graphics/pmgraphic.jpg)
+![airbalkans](https://raw.githubusercontent.com/sepse/COVAir-Balkans/blob/main/Graphics/pmgraphic.jpg)
 
 PM stands for particulate matter (also called particle pollution): the term for a mixture of solid particles and liquid droplets found in the air. Some particles, such as dust, dirt, soot, or smoke, are large or dark enough to be seen with the naked eye. Others are so small they can only be detected using an electron microscope. Air particle pollution includes:
 
@@ -38,7 +38,7 @@ Daily air pollution data (PM10 & PM2.5) has been gathered from 2019 to 2022, to 
 * Banja Luka
 * Zagreb 
 
-![airbalkans](https://github.com/sepse/COVAir-Balkans/blob/main/Graphics/airbalkans.jpg)
+![airbalkans](https://raw.githubusercontent.com/sepse/COVAir-Balkans/blob/main/Graphics/airbalkans.jpg)
 
 ### COVID Data ##
 COVID data has been gathered from: [Our World In Data](https://ourworldindata.org/coronavirus). It includes:
@@ -54,7 +54,7 @@ All datasets can be accessed via this link [Complete Datasets](https://drive.goo
 ## Methodology 
 All data processing, exploration and visualization will be conducted using Python notebooks hosted in [Google Colab](https://colab.research.google.com/). The material is available as a tool to further explore the topics and learn about air quality and COVID in particular, and data science in general. Notebooks will open in Colab, where you can see the research methodology performed on the dataset; notebooks also allow you to tweak them to further explore the data on you own.
 
-**The notebooks:** [Balkan Air Pollution](https://github.com/sepse/COVAir-Balkans/blob/main/balkan_pollution.ipynb); and [Balkan Covid](https://github.com/sepse/COVAir-Balkans/blob/main/balkan_covid.ipynb)
+**The notebooks:** [Balkan Air Pollution](https://github.com/sepse/COVAir-Balkans/blob/main/balkan_pollution.ipynb); and [Balkan Covid](https://raw.githubusercontent.com/sepse/COVAir-Balkans/blob/main/balkan_covid.ipynb)
 
 
 
@@ -62,13 +62,13 @@ All data processing, exploration and visualization will be conducted using Pytho
 ## First Results
 Not surprisingly, from initial data exploration of overall region we can see the clear seasonality and trend of pollution levels due to increased burning of wood and coal for heating during the winter. It is particularly interesting to see how different city profiles emerge by looking at baseline air pollution during non-winter months, namely as it addresses other factors that might contribute to air quality (vehicles, industrial activities). These results might not point to specific cause of pollution, however it provides us an advantage to better investigate the phenomenon and potentially identify potential culprits that might play a major role. For instance, one key takeaway that stands out is the improvement of air quality during the COVID lockdown periods, possibly due to decreased traffic. 
 
-![airbalkans](https://github.com/sepse/COVAir-Balkans/blob/main/Graphics/balkanair.jpg)
+![airbalkans](https://raw.githubusercontent.com/sepse/COVAir-Balkans/blob/main/Graphics/balkanair.jpg)
 
-![airbalkans](https://github.com/sepse/COVAir-Balkans/blob/main/Graphics/seasonality.jpg)
+![airbalkans](https://raw.githubusercontent.com/sepse/COVAir-Balkans/blob/main/Graphics/seasonality.jpg)
 
 Meanwhile our exploration of COVID dataset also reveals somewhat similar country profiles as far as general trendlines are concerned, nevertheless some unique patterns do emerge and they become evident as we visually investigate.
 
-![airbalkans](https://github.com/sepse/COVAir-Balkans/blob/main/Graphics/covidbalkan.jpg)
+![airbalkans](https://raw.githubusercontent.com/sepse/COVAir-Balkans/blob/main/Graphics/covidbalkan.jpg)
 
 This analysis provides a general understanding of how Balkan countries relate to one another, and it does raise some questions that might be worthy of further investigation from different domains. Namely, the strongest correlation exists between 'New Testing' and 'New Cases' variables, which could  explain the anomalies in the trendlines above.
 
