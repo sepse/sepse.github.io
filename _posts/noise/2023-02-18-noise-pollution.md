@@ -8,8 +8,6 @@ tags: [noise, pollution, prishtina, iot]
 comments: true
 ---
 
-# Urban Sensing - Noise Pollution :closed_book: :loud_sound:
-
 How loud is my city - measuring noise levels in Prishtina.
 
 ## Introduction
