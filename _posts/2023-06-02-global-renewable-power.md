@@ -54,7 +54,7 @@ The data science methodology involves the following:
 - Exploratory data analysis (EDA): Explore the dataset using visualization techniques to understand the patterns and relationships in the data. Plotting histograms, line plots, and scatterplots can help you identify patterns, correlations, and distributions in the data. Use visualizations to understand the distribution of renewable powerplants in the world, and explore the relative capacitites of regional production.
 - Visualization: Use visualizations to present the results of the exploration, create interactive maps showing areas of interest, or provide visualizations that help users understand the global landscape of energy production.
 
-**The notebooks:** [Global Power Plants](https://github.com/sepse/Global-Renewable-Energy/blob/f99d4460377f2eb809fcfeb76261e7047e808428/Global_Power.ipynb)
+**The notebooks:** [Global Power Plants](https://raw.githubusercontent.com/sepse/Global-Renewable-Energy/blob/f99d4460377f2eb809fcfeb76261e7047e808428/Global_Power.ipynb)
 
 ## First Results
 
