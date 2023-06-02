@@ -8,7 +8,6 @@ tags: [energy, power, renewable]
 comments: true
 ---
 
-# Global Renewable Energy :earth_africa: :recycle: :sunny:
 A data science research project, analyzing global renewable energy production in general, and taking a closer look at Balkans in particular.
 
 ## Objective
