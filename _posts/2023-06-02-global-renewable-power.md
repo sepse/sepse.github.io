@@ -1,3 +1,13 @@
+---
+layout: post
+title: Global Renewable Power
+subtitle: How do countries rank in green energy
+gh-repo: /sepse/Global-Renewable-Energy
+gh-badge: [star, fork, follow]
+tags: [energy, power, renewable]
+comments: true
+---
+
 # Global Renewable Energy :earth_africa: :recycle: :sunny:
 A data science research project, analyzing global renewable energy production in general, and taking a closer look at Balkans in particular.
 
