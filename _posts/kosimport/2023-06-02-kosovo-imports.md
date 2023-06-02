@@ -8,7 +8,6 @@ tags: [economy, kosovo, customs]
 comments: true
 ---
 
-# Kosovo Import Data :moneybag:  :bar_chart: 	:closed_book: 
 Unveiling trade insights by researching import data from Kosovo Customs Open Data platform, for the year 2022.
 
 ## Objective
