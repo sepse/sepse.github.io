@@ -29,7 +29,7 @@ The data was saved on a public channel of [Thingspeak](www.thingspeak.com), a pl
 
 The microphone sensor was placed in an urban residential and commercial location in the heart of Prishtina, at the intersection of "Bill Clinton" and "Robert Dole" streets.
 
-![noisemap](https://github.com/sepse/Noise-Pollution-Prishtina/blob/main/Graphics/noisemap.png)
+![noisemap](https://github.com/sepse/sepse.github.io/blob/e96b9655055db376f93f48093a51f2510f800489/assets/img/noisemap.png)
 
 After downloading the data from the platform we will take a closer look using data science methodology, to see if we can get a better understanding.
 
