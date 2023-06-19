@@ -47,6 +47,8 @@ By leveraging the location data available in the dataset, we can perform spatial
 
 ![mapimport](https://github.com/sepse/Kosovo-Import-Data/blob/886d7962029c76cd3986e6732083569051abdf3d/Graphics/mapimport.png)
 
+![whatwhat](https://raw.githubusercontent.com/sepse/Kosovo-Import-Data/blob/886d7962029c76cd3986e6732083569051abdf3d/Graphics/mapimport.png)
+
 Thereby we identify Turkey, China, Germany, Serbia and Italy as the countries accounting for the majority of imports. We represent the value of imports from them, in a barchart.
 
 ![top5](https://github.com/sepse/Kosovo-Import-Data/blob/bd43efb2a9910a27d041f86d6fd746595766640e/Graphics/top5.png)
