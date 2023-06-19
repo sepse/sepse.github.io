@@ -2,7 +2,7 @@
 layout: post
 title: Global Renewable Power
 subtitle: How do countries rank in green energy
-gh-repo: /sepse/Global-Renewable-Energy
+gh-repo: sepse/Global-Renewable-Energy
 gh-badge: [star, fork, follow]
 tags: [energy, power, renewable]
 comments: true
