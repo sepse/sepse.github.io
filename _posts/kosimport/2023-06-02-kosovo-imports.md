@@ -45,17 +45,17 @@ The data science methodology involves the following:
 
 By leveraging the location data available in the dataset, we can perform spatial analysis to visualize the countries which account for the largest imports, generated as a heatmap.
 
-![mapimport](https://github.com/sepse/Kosovo-Import-Data/blob/886d7962029c76cd3986e6732083569051abdf3d/Graphics/mapimport.png)
+![mapimport](https://raw.githubusercontent.com/sepse/Kosovo-Import-Data/main/Graphics/mapimport.png)
 
 Thereby we identify Turkey, China, Germany, Serbia and Italy as the countries accounting for the majority of imports. We represent the value of imports from them, in a barchart.
 
-![top5](https://github.com/sepse/Kosovo-Import-Data/blob/bd43efb2a9910a27d041f86d6fd746595766640e/Graphics/top5.png)
+![top5](https://raw.githubusercontent.com/sepse/Kosovo-Import-Data/main/Graphics/top5.png)
 
 ### Understanding Seasonal Trends
 
 Tabular data and barcharts are good at conveying some forms of information, though why not add a time dimension so we can look if any seasonal patterns emerge by looking at the annual graph, specifically using Area Charts. We see how the top 4 countries compare for the year 2022.
 
-![4chart](https://github.com/sepse/Kosovo-Import-Data/blob/3f8c2a9467c6b730adb63db517590c58f9c754e9/Graphics/4chart.png)
+![4chart](https://raw.githubusercontent.com/sepse/Kosovo-Import-Data/main/Graphics/4chart.png)
 
 ### Key takeaways
 This research reveals Kosovo's trade dynamics with its top four import partners: Turkey, Germany, China, and Serbia. Among these countries, oil (fuel) emerges as the dominant import, indicating its crucial role in meeting Kosovo's energy needs. Additionally, the import data highlights the diversified nature of imports, with distinct sectors dominating each partnership. Imports from Serbia are primarily driven by the food industry, showcasing the bilateral trade in agricultural products. Electronics constitute a significant portion of imports from China, reflecting the growing demand for consumer electronics in Kosovo. Furthermore, the import of vehicles from Germany underscores the importance of the automotive industry in meeting transportation needs. By understanding these trade patterns and the specific goods driving imports, businesses and policymakers in Kosovo can leverage this information to optimize trade strategies, foster economic growth, and forge stronger partnerships with these key countries.
