@@ -23,7 +23,7 @@ Recently in Prishtina, a 'Citizen Science' research project was conducted whereb
 
 The data was saved on a public channel of [Thingspeak](www.thingspeak.com), a platform for storing and displaying various sensor data. 
 
-![noisePRI](https://raw.githubusercontent.com/sepse/Noise-Pollution-Prishtina/Graphics/noisePRI.png) 
+![noisePRI](https://github.com/sepse/Noise-Pollution-Prishtina/blob/bdd1e9dc6a813bfbff86df0e7ceb66324ecbb637/Graphics/noisePRI.png) 
 
 [Sensor Channel](https://thingspeak.com/channels/1922620)
 
