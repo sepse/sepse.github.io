@@ -23,13 +23,13 @@ Recently in Prishtina, a 'Citizen Science' research project was conducted whereb
 
 The data was saved on a public channel of [Thingspeak](www.thingspeak.com), a platform for storing and displaying various sensor data. 
 
-![noisePRI](https://github.com/sepse/Noise-Pollution-Prishtina/blob/bdd1e9dc6a813bfbff86df0e7ceb66324ecbb637/Graphics/noisePRI.png) 
+![noisePRI](https://raw.githubusercontent.com/sepse/Noise-Pollution-Prishtina/main/Graphics/noisePRI.png) 
 
 [Sensor Channel](https://thingspeak.com/channels/1922620)
 
 The microphone sensor was placed in an urban residential and commercial location in the heart of Prishtina, at the intersection of "Bill Clinton" and "Robert Dole" streets.
 
-![noisemap](https://github.com/sepse/Noise-Pollution-Prishtina/blob/b15bee766728e491191742865bc3c4c7e32a9d39/Graphics/noisemap2.jpg)
+![noisemap](https://raw.githubusercontent.com/sepse/Noise-Pollution-Prishtina/main/Graphics/noisemap2.jpg)
 
 After downloading the data from the platform we will take a closer look using data science methodology, to see if we can get a better understanding.
 
@@ -45,7 +45,7 @@ The acceptable range of noise levels in decibels for urban environments depends 
 It is essential to note that these are only guidelines, and different countries and regions may have their own regulations and standards for noise levels in urban areas.
 Exposure to prolonged high noise levels can cause a wide range of health problems, including hearing loss, sleep disturbance, cardiovascular diseases, and stress. Therefore, it is crucial to monitor and control noise levels in urban areas to ensure public health and well-being. [WHO Source](https://www.who.int/europe/news-room/fact-sheets/item/noise)
 
-![noiseLevel](https://github.com/sepse/Noise-Pollution-Prishtina/blob/main/Graphics/NOISE-LEVEL-DECIBEL-CHART.png)
+![noiseLevel](https://raw.githubusercontent.com/sepse/Noise-Pollution-Prishtina/main/Graphics/NOISE-LEVEL-DECIBEL-CHART.png)
 -Chart [Source](https://www.electronicshub.org/noise-level-decibels-chart/)
 
 ## Data
@@ -73,11 +73,11 @@ The data science methodology involves the following:
 
 By plotting the datapoints visually we can see a general pattern that occurs throughout the day/night cycle, which is not surprising. What is interesting though is seeing where the majority of the datapoints rests, namely where is the average baseline.
 
-![noiselevel](https://github.com/sepse/Noise-Pollution-Prishtina/blob/main/Graphics/noise_levels.png)
+![noiselevel](https://raw.githubusercontent.com/sepse/Noise-Pollution-Prishtina/main/Graphics/noise_levels.png)
 
 The visuals do tell a clear story as to what is the current state of noise pollution in the city, and is without a doubt the most intuitive way of conveying this kind of information. Furthermore, by performing basic statistical analysis we can also see the likelihood of certain noise levels that occur, as a way of understanging pattern of a phenomenon. 
 
-![stats](https://github.com/sepse/Noise-Pollution-Prishtina/blob/main/Graphics/stats.png)
+![stats](https://raw.githubusercontent.com/sepse/Noise-Pollution-Prishtina/main/Graphics/stats.png)
 
 Looking at the mean average for this timepriod we can see that it exceeds the recommended levels, reffering to the abovementioned WHO guidelines for residential areas, though not excessively so. What is of concern as well is the outlier cases where there are dramatic increase in noise. This research ought to raise questions about the particular state of this urban environment, and increase institutional awareness about potential causes/solutions.
 
