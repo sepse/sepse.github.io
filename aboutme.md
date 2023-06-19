@@ -9,7 +9,11 @@ I play well with open source software and hardware, with a history of developing
 #### Tech I use:
 
 OS: Linux
+
 Data Science: Python, R
+
 Databases: NoSQL, MySQL, SQLite
+
 IoT: Arduino, ESP8266/32, Raspberry Pi, LoRa; C/C++, YAML
+
 Creative Coding & Web: HTML, JavaScript
