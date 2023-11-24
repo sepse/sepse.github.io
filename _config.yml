@@ -270,7 +270,7 @@ defaults:
     scope:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
-      layout: minimal # "page"
+      layout: "page"
 
 # Exclude these files from production site
 exclude:
